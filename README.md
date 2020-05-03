@@ -1,2 +1,2 @@
 # Paradigmes
-Mes tps de paradigmes.
+Ce répertoire contient mes tps de paradigmes avec leur sujet. 
